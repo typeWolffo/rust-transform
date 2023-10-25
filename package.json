@@ -1,0 +1,9 @@
+{
+  "name": "rust-transform",
+  "version": "1.0.0",
+  "description": "Framer-motion useTransform hook in Rust",
+  "main": "./pkg/rust_transform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
